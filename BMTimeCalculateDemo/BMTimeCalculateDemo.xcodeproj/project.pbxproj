@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2EAD68DD1CDDDF2B0086F0C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EAD68DC1CDDDF2B0086F0C3 /* main.m */; };
+		2EAD68E01CDDDF2B0086F0C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EAD68DF1CDDDF2B0086F0C3 /* AppDelegate.m */; };
+		2EAD68E31CDDDF2B0086F0C3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EAD68E21CDDDF2B0086F0C3 /* ViewController.m */; };
+		2EAD68E61CDDDF2B0086F0C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EAD68E41CDDDF2B0086F0C3 /* Main.storyboard */; };
+		2EAD68E81CDDDF2B0086F0C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EAD68E71CDDDF2B0086F0C3 /* Assets.xcassets */; };
+		2EAD68EB1CDDDF2B0086F0C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EAD68E91CDDDF2B0086F0C3 /* LaunchScreen.storyboard */; };
+		2EAD68F61CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EAD68F51CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.m */; };
+		2EAD69011CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EAD69001CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.m */; };
+		2EAD69111CDDDF770086F0C3 /* BMTimeCalculate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EAD69101CDDDF770086F0C3 /* BMTimeCalculate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2EAD68F21CDDDF2B0086F0C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2EAD68D01CDDDF2B0086F0C3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2EAD68D71CDDDF2B0086F0C3;
+			remoteInfo = BMTimeCalculateDemo;
+		};
+		2EAD68FD1CDDDF2B0086F0C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2EAD68D01CDDDF2B0086F0C3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2EAD68D71CDDDF2B0086F0C3;
+			remoteInfo = BMTimeCalculateDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2EAD68D81CDDDF2B0086F0C3 /* BMTimeCalculateDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BMTimeCalculateDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2EAD68DC1CDDDF2B0086F0C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2EAD68DE1CDDDF2B0086F0C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2EAD68DF1CDDDF2B0086F0C3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2EAD68E11CDDDF2B0086F0C3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		2EAD68E21CDDDF2B0086F0C3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2EAD68E51CDDDF2B0086F0C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2EAD68E71CDDDF2B0086F0C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2EAD68EA1CDDDF2B0086F0C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2EAD68EC1CDDDF2B0086F0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EAD68F11CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BMTimeCalculateDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2EAD68F51CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BMTimeCalculateDemoTests.m; sourceTree = "<group>"; };
+		2EAD68F71CDDDF2B0086F0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EAD68FC1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BMTimeCalculateDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2EAD69001CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BMTimeCalculateDemoUITests.m; sourceTree = "<group>"; };
+		2EAD69021CDDDF2B0086F0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EAD690F1CDDDF770086F0C3 /* BMTimeCalculate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMTimeCalculate.h; sourceTree = "<group>"; };
+		2EAD69101CDDDF770086F0C3 /* BMTimeCalculate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMTimeCalculate.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2EAD68D51CDDDF2B0086F0C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EAD68EE1CDDDF2B0086F0C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EAD68F91CDDDF2B0086F0C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2EAD68CF1CDDDF2B0086F0C3 = {
+			isa = PBXGroup;
+			children = (
+				2EAD68DA1CDDDF2B0086F0C3 /* BMTimeCalculateDemo */,
+				2EAD68F41CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests */,
+				2EAD68FF1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests */,
+				2EAD68D91CDDDF2B0086F0C3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2EAD68D91CDDDF2B0086F0C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2EAD68D81CDDDF2B0086F0C3 /* BMTimeCalculateDemo.app */,
+				2EAD68F11CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.xctest */,
+				2EAD68FC1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2EAD68DA1CDDDF2B0086F0C3 /* BMTimeCalculateDemo */ = {
+			isa = PBXGroup;
+			children = (
+				2EAD690E1CDDDF770086F0C3 /* BMTimeCalculate */,
+				2EAD68DE1CDDDF2B0086F0C3 /* AppDelegate.h */,
+				2EAD68DF1CDDDF2B0086F0C3 /* AppDelegate.m */,
+				2EAD68E11CDDDF2B0086F0C3 /* ViewController.h */,
+				2EAD68E21CDDDF2B0086F0C3 /* ViewController.m */,
+				2EAD68E41CDDDF2B0086F0C3 /* Main.storyboard */,
+				2EAD68E71CDDDF2B0086F0C3 /* Assets.xcassets */,
+				2EAD68E91CDDDF2B0086F0C3 /* LaunchScreen.storyboard */,
+				2EAD68EC1CDDDF2B0086F0C3 /* Info.plist */,
+				2EAD68DB1CDDDF2B0086F0C3 /* Supporting Files */,
+			);
+			path = BMTimeCalculateDemo;
+			sourceTree = "<group>";
+		};
+		2EAD68DB1CDDDF2B0086F0C3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2EAD68DC1CDDDF2B0086F0C3 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2EAD68F41CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				2EAD68F51CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.m */,
+				2EAD68F71CDDDF2B0086F0C3 /* Info.plist */,
+			);
+			path = BMTimeCalculateDemoTests;
+			sourceTree = "<group>";
+		};
+		2EAD68FF1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests */ = {
+			isa = PBXGroup;
+			children = (
+				2EAD69001CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.m */,
+				2EAD69021CDDDF2B0086F0C3 /* Info.plist */,
+			);
+			path = BMTimeCalculateDemoUITests;
+			sourceTree = "<group>";
+		};
+		2EAD690E1CDDDF770086F0C3 /* BMTimeCalculate */ = {
+			isa = PBXGroup;
+			children = (
+				2EAD690F1CDDDF770086F0C3 /* BMTimeCalculate.h */,
+				2EAD69101CDDDF770086F0C3 /* BMTimeCalculate.m */,
+			);
+			path = BMTimeCalculate;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2EAD68D71CDDDF2B0086F0C3 /* BMTimeCalculateDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2EAD69051CDDDF2B0086F0C3 /* Build configuration list for PBXNativeTarget "BMTimeCalculateDemo" */;
+			buildPhases = (
+				2EAD68D41CDDDF2B0086F0C3 /* Sources */,
+				2EAD68D51CDDDF2B0086F0C3 /* Frameworks */,
+				2EAD68D61CDDDF2B0086F0C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BMTimeCalculateDemo;
+			productName = BMTimeCalculateDemo;
+			productReference = 2EAD68D81CDDDF2B0086F0C3 /* BMTimeCalculateDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2EAD68F01CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2EAD69081CDDDF2B0086F0C3 /* Build configuration list for PBXNativeTarget "BMTimeCalculateDemoTests" */;
+			buildPhases = (
+				2EAD68ED1CDDDF2B0086F0C3 /* Sources */,
+				2EAD68EE1CDDDF2B0086F0C3 /* Frameworks */,
+				2EAD68EF1CDDDF2B0086F0C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2EAD68F31CDDDF2B0086F0C3 /* PBXTargetDependency */,
+			);
+			name = BMTimeCalculateDemoTests;
+			productName = BMTimeCalculateDemoTests;
+			productReference = 2EAD68F11CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2EAD68FB1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2EAD690B1CDDDF2B0086F0C3 /* Build configuration list for PBXNativeTarget "BMTimeCalculateDemoUITests" */;
+			buildPhases = (
+				2EAD68F81CDDDF2B0086F0C3 /* Sources */,
+				2EAD68F91CDDDF2B0086F0C3 /* Frameworks */,
+				2EAD68FA1CDDDF2B0086F0C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2EAD68FE1CDDDF2B0086F0C3 /* PBXTargetDependency */,
+			);
+			name = BMTimeCalculateDemoUITests;
+			productName = BMTimeCalculateDemoUITests;
+			productReference = 2EAD68FC1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2EAD68D01CDDDF2B0086F0C3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = skyming;
+				TargetAttributes = {
+					2EAD68D71CDDDF2B0086F0C3 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 6Y97E3KB4K;
+					};
+					2EAD68F01CDDDF2B0086F0C3 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 6Y97E3KB4K;
+						TestTargetID = 2EAD68D71CDDDF2B0086F0C3;
+					};
+					2EAD68FB1CDDDF2B0086F0C3 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 6Y97E3KB4K;
+						TestTargetID = 2EAD68D71CDDDF2B0086F0C3;
+					};
+				};
+			};
+			buildConfigurationList = 2EAD68D31CDDDF2B0086F0C3 /* Build configuration list for PBXProject "BMTimeCalculateDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2EAD68CF1CDDDF2B0086F0C3;
+			productRefGroup = 2EAD68D91CDDDF2B0086F0C3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2EAD68D71CDDDF2B0086F0C3 /* BMTimeCalculateDemo */,
+				2EAD68F01CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests */,
+				2EAD68FB1CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2EAD68D61CDDDF2B0086F0C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2EAD68EB1CDDDF2B0086F0C3 /* LaunchScreen.storyboard in Resources */,
+				2EAD68E81CDDDF2B0086F0C3 /* Assets.xcassets in Resources */,
+				2EAD68E61CDDDF2B0086F0C3 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EAD68EF1CDDDF2B0086F0C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EAD68FA1CDDDF2B0086F0C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2EAD68D41CDDDF2B0086F0C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2EAD68E31CDDDF2B0086F0C3 /* ViewController.m in Sources */,
+				2EAD68E01CDDDF2B0086F0C3 /* AppDelegate.m in Sources */,
+				2EAD68DD1CDDDF2B0086F0C3 /* main.m in Sources */,
+				2EAD69111CDDDF770086F0C3 /* BMTimeCalculate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EAD68ED1CDDDF2B0086F0C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2EAD68F61CDDDF2B0086F0C3 /* BMTimeCalculateDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2EAD68F81CDDDF2B0086F0C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2EAD69011CDDDF2B0086F0C3 /* BMTimeCalculateDemoUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2EAD68F31CDDDF2B0086F0C3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2EAD68D71CDDDF2B0086F0C3 /* BMTimeCalculateDemo */;
+			targetProxy = 2EAD68F21CDDDF2B0086F0C3 /* PBXContainerItemProxy */;
+		};
+		2EAD68FE1CDDDF2B0086F0C3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2EAD68D71CDDDF2B0086F0C3 /* BMTimeCalculateDemo */;
+			targetProxy = 2EAD68FD1CDDDF2B0086F0C3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2EAD68E41CDDDF2B0086F0C3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2EAD68E51CDDDF2B0086F0C3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2EAD68E91CDDDF2B0086F0C3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2EAD68EA1CDDDF2B0086F0C3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2EAD69031CDDDF2B0086F0C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2EAD69041CDDDF2B0086F0C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2EAD69061CDDDF2B0086F0C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = BMTimeCalculateDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.skyming.demo.BMTimeCalculateDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2EAD69071CDDDF2B0086F0C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = BMTimeCalculateDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.skyming.demo.BMTimeCalculateDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2EAD69091CDDDF2B0086F0C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = BMTimeCalculateDemoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.skyming.demo.BMTimeCalculateDemoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BMTimeCalculateDemo.app/BMTimeCalculateDemo";
+			};
+			name = Debug;
+		};
+		2EAD690A1CDDDF2B0086F0C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = BMTimeCalculateDemoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.skyming.demo.BMTimeCalculateDemoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BMTimeCalculateDemo.app/BMTimeCalculateDemo";
+			};
+			name = Release;
+		};
+		2EAD690C1CDDDF2B0086F0C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = BMTimeCalculateDemoUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.skyming.demo.BMTimeCalculateDemoUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = BMTimeCalculateDemo;
+			};
+			name = Debug;
+		};
+		2EAD690D1CDDDF2B0086F0C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = BMTimeCalculateDemoUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.skyming.demo.BMTimeCalculateDemoUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = BMTimeCalculateDemo;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2EAD68D31CDDDF2B0086F0C3 /* Build configuration list for PBXProject "BMTimeCalculateDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EAD69031CDDDF2B0086F0C3 /* Debug */,
+				2EAD69041CDDDF2B0086F0C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2EAD69051CDDDF2B0086F0C3 /* Build configuration list for PBXNativeTarget "BMTimeCalculateDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EAD69061CDDDF2B0086F0C3 /* Debug */,
+				2EAD69071CDDDF2B0086F0C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		2EAD69081CDDDF2B0086F0C3 /* Build configuration list for PBXNativeTarget "BMTimeCalculateDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EAD69091CDDDF2B0086F0C3 /* Debug */,
+				2EAD690A1CDDDF2B0086F0C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		2EAD690B1CDDDF2B0086F0C3 /* Build configuration list for PBXNativeTarget "BMTimeCalculateDemoUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EAD690C1CDDDF2B0086F0C3 /* Debug */,
+				2EAD690D1CDDDF2B0086F0C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2EAD68D01CDDDF2B0086F0C3 /* Project object */;
+}

@@ -8,3 +8,4 @@
 * [NeteaseAPM iOS SDK技术实现分享](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112215&idx=1&sn=9cc5b5fa630542a6d4b7a5626e35217a#rd)
 * [魔窗研发副总裁沈哲：移动端SDK的优化之路](http://blog.csdn.net/magicwindow/article/details/51423463)
 * [iOS微信安装包瘦身](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)
+* [WWDC 2016 Session笔记：App启动时间优化](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112831&idx=1&sn=4c7a06af9a726989cd7201bea7de6830&chksm=844c6ca2b33be5b4df92b67fe7912780c1977f8f993b55520a0d17abb3daf9defb09731c3167&scene=0#rd)

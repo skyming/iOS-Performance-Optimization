@@ -3,6 +3,7 @@
 
 
 * [微信读书iOS性能优化](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
+* [微信读书 iOS 质量保证及性能监控](http://wereadteam.github.io/2016/12/12/Monitor/)
 * [iOS 性能优化之业务性能监控](http://skyming.me/2016/05/08/iOS-Performance-Optimization-Time-md/)
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ%3D%3D&idx=1&mid=207890859&scene=23&sn=e98dd604cdb854e7a5808d2072c29162&srcid=0921FzoCw9j1W7n4uFYKuarC#rd)
 * [NeteaseAPM iOS SDK技术实现分享](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112215&idx=1&sn=9cc5b5fa630542a6d4b7a5626e35217a#rd)

@@ -13,7 +13,7 @@
 
 #### 网络优化
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)
-
+* [开源版HttpDNS方案详解](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209805123&idx=1&sn=ced8d67c3e2cc3ca38ef722949fa21f8)
 
 #### 相关开源库
 * [HTTPDNSLib-for-iOS](https://github.com/CNSRE/HTTPDNSLib-for-iOS)

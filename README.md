@@ -11,5 +11,10 @@
 * [iOS微信安装包瘦身](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)
 * [WWDC 2016 Session笔记：App启动时间优化](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112831&idx=1&sn=4c7a06af9a726989cd7201bea7de6830&chksm=844c6ca2b33be5b4df92b67fe7912780c1977f8f993b55520a0d17abb3daf9defb09731c3167&scene=0#rd)
 
-###网络优化
+#### 网络优化
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)
+
+
+#### 相关开源库
+* [HTTPDNSLib-for-iOS](https://github.com/CNSRE/HTTPDNSLib-for-iOS)
+* [HTTPDNSLib-for-Andorod](https://github.com/CNSRE/HTTPDNSLib)

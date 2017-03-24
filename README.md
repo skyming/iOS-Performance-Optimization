@@ -16,6 +16,8 @@
 * [开源版HttpDNS方案详解](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209805123&idx=1&sn=ced8d67c3e2cc3ca38ef722949fa21f8)
 * [携程App的网络性能优化实践](http://www.infoq.com/cn/articles/how-ctrip-improves-app-networking-performance)
 * [2016年携程App网络服务通道治理和性能优化实践](http://www.infoq.com/cn/articles/app-network-service-and-performance-optimization-of-ctrip)
+* [蘑菇街App Chromium网络栈实践](http://www.infoq.com/cn/articles/mogujie-app-chromium-network-layer)
+
 
 #### 相关开源库
 * [HTTPDNSLib-for-iOS](https://github.com/CNSRE/HTTPDNSLib-for-iOS)

@@ -22,6 +22,7 @@ TODO：
 * [今日头条IPA安装包的优化](https://techblog.toutiao.com/2016/12/27/iphone/)
 * [iOS瘦身之删除FrameWork中无用mach-O文件](http://www.infoq.com/cn/articles/ios-thinning-delete-unnecessary-mach-o)
 * [基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing)
+* [iOS可执行文件瘦身方法](http://blog.cnbang.net/tech/2544/)
 
 #### 网络优化
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)

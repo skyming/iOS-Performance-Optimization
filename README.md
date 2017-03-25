@@ -15,6 +15,7 @@ TODO：
 #### 启动优化
 * [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/#more)
 * [WWDC 2016 Session笔记：App启动时间优化](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112831&idx=1&sn=4c7a06af9a726989cd7201bea7de6830&chksm=844c6ca2b33be5b4df92b67fe7912780c1977f8f993b55520a0d17abb3daf9defb09731c3167&scene=0#rd)
+* [Facebook iOS App如何优化启动时间](http://www.cocoachina.com/ios/20160104/14870.html)
 
 
 #### 体积优化

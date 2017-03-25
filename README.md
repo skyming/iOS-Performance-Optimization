@@ -19,7 +19,8 @@ TODO：
 #### 体积优化
 * [今日头条IPA安装包的优化](https://techblog.toutiao.com/2016/12/27/iphone/)
 * [iOS微信安装包瘦身](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)
-
+* [iOS瘦身之删除FrameWork中无用mach-O文件](http://www.infoq.com/cn/articles/ios-thinning-delete-unnecessary-mach-o)
+* [基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing)
 
 #### 网络优化
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)

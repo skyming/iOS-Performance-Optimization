@@ -46,6 +46,7 @@ TODO：
 * [基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing)
 * [iOS可执行文件瘦身方法](http://blog.cnbang.net/tech/2544/)
 * [iOS图片优化方案](http://crespoxiao.github.io/2016/11/12/iOS%E5%9B%BE%E7%89%87%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/)
+* [滴滴出行 iOS 端瘦身实践的 Slides](https://ming1016.github.io/2017/06/12/gmtc-ios-slimming-practice/)
 
 #### 网络优化
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)

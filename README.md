@@ -7,8 +7,8 @@
 * [High Performance iOS Apps](http://download.csdn.net/detail/tskyming/9831465)
 
 #### 基本工具
-TODO：
-Instruments 高级技巧、常见的优化技能
+* [使用Instrument调试界面卡顿](http://www.jianshu.com/p/9dbbc91c8059)
+* [Core Animation性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
 
 #### 综合篇
 * [微信读书iOS性能优化](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
@@ -26,6 +26,7 @@ TODO：
 #### 卡顿优化
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ%3D%3D&idx=1&mid=207890859&scene=23&sn=e98dd604cdb854e7a5808d2072c29162&srcid=0921FzoCw9j1W7n4uFYKuarC#rd)
 * [iOS-卡顿检测](http://sindrilin.com/apm/2017/03/24/%E5%8D%A1%E9%A1%BF%E6%A3%80%E6%B5%8B)
+* [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
 
 #### 布局优化
 TODO：

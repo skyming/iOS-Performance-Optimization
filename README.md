@@ -9,7 +9,7 @@
 #### Instruments 工具相关
 * [Instruments Help](http://help.apple.com/instruments/mac/9.0/)
 * [Instruments User Guide](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html)
-* [Instruments之Leaks学习](http://www.cnblogs.com/lxlx1798/p/6933485.html)
+* [Instruments之Leaks学习](http://www.cnblogs.com/lxlx1798/p/6933485.html) [中文翻译-PDF](http://cdn.cocimg.com/bbs/attachment/Fid_6/6_24457_90eabb4ed5b3863.pdf) 
 * [Instruments学习之Allocations](http://www.cnblogs.com/lxlx1798/p/6933195.html) 
 * [instrument之Time Profiler总结](http://www.cnblogs.com/lxlx1798/p/6933604.html)
 * [Instruments学习之Core Animation学习](http://www.cnblogs.com/lxlx1798/p/6933364.html) 

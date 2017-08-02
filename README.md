@@ -6,7 +6,14 @@
 * [Pro iOS Apps Performance Optimization](http://download.csdn.net/detail/tskyming/9831453)
 * [High Performance iOS Apps](http://download.csdn.net/detail/tskyming/9831465)
 
-#### 基本工具
+#### Instruments 工具相关
+* [Instruments Help](http://help.apple.com/instruments/mac/9.0/)
+* [Instruments User Guide](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html)
+* [Instruments之Leaks学习](http://www.cnblogs.com/lxlx1798/p/6933485.html)
+* [Instruments学习之Allocations](http://www.cnblogs.com/lxlx1798/p/6933195.html) 
+* [instrument之Time Profiler总结](http://www.cnblogs.com/lxlx1798/p/6933604.html)
+* [Instruments学习之Core Animation学习](http://www.cnblogs.com/lxlx1798/p/6933364.html) 
+* [Instruments之Activity Monitor使用入门](http://www.cnblogs.com/lxlx1798/p/6933141.html) 
 * [使用Instrument调试界面卡顿](http://www.jianshu.com/p/9dbbc91c8059)
 * [Core Animation性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
 

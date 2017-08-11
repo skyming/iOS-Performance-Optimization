@@ -3,6 +3,7 @@
 基本工具、业务优化、内存优化、卡顿优化、布局优化、电量优化、 安装包瘦身、启动优化、网络优化等
 
 #### iOS 官方文档
+> 专题内容比较多，后面细分内容会有部分重复。
 * [Performance 专题](https://developer.apple.com/library/content/navigation/#section=Topics&topic=Performance) 
 
 #### iOS 性能优化相关书籍
@@ -34,7 +35,7 @@
 * [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
 
 #### 内存优化
-TODO：
+* [Memory Usage Performance Guidelines](https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160i) 
 
 #### 卡顿优化
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ%3D%3D&idx=1&mid=207890859&scene=23&sn=e98dd604cdb854e7a5808d2072c29162&srcid=0921FzoCw9j1W7n4uFYKuarC#rd)
@@ -48,7 +49,7 @@ TODO：
 TODO：
 
 #### 电量优化 
-TODO：
+* [Energy Efficiency and the User Experience](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html#//apple_ref/doc/uid/TP40015243)
 
 #### 启动优化
 * [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/#more)

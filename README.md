@@ -50,6 +50,7 @@ TODO：
 * [百度输入法-iOS 启动速度优化](http://www.infoq.com/cn/presentations/ios-typewriting-start-speed-optimization)
 * [Facebook iOS App如何优化启动时间](http://www.cocoachina.com/ios/20160104/14870.html)
 * [obj中国-Mach-O 可执行文件](https://objccn.io/issue-6-3/)
+* [iOS App 启动性能优化](https://mp.weixin.qq.com/s/Kf3EbDIUuf0aWVT-UCEmbA)
 
 #### 体积优化
 * [iOS微信安装包瘦身](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)

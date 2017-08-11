@@ -2,6 +2,9 @@
 关于iOS 性能优化梳理：
 基本工具、业务优化、内存优化、卡顿优化、布局优化、电量优化、 安装包瘦身、启动优化、网络优化等
 
+#### iOS 官方文档
+* [Performance 专题](https://developer.apple.com/library/content/navigation/#section=Topics&topic=Performance) 
+
 #### iOS 性能优化相关书籍
 * [Pro iOS Apps Performance Optimization](http://download.csdn.net/detail/tskyming/9831453)
 * [High Performance iOS Apps](http://download.csdn.net/detail/tskyming/9831465)

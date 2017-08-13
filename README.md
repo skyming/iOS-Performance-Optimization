@@ -77,6 +77,7 @@ TODO：
 #### APM 
 * [网易 - NeteaseAPM iOS SDK技术实现分享](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112215&idx=1&sn=9cc5b5fa630542a6d4b7a5626e35217a#rd)
 * [网易乐得 - iOS无埋点数据SDK实践之路](http://www.jianshu.com/p/69ce01e15042) 
+* [听云 - 移动端 APM 产品研发技能](http://www.infoq.com/cn/presentations/mobile-terminal-apm-product-development-skills) 
 * [听云 - 移动 App 性能监测](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice?utm_source=presentations_about_mobile&utm_medium=link&utm_campaign=mobile)
 * [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
 

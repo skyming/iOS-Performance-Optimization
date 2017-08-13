@@ -85,6 +85,7 @@ TODO：
 ##### 网络
 * [HTTPDNSLib-for-iOS](https://github.com/CNSRE/HTTPDNSLib-for-iOS)
 * [HTTPDNSLib-for-Andorod](https://github.com/CNSRE/HTTPDNSLib)
+* [NetworkEye](https://github.com/coderyi/NetworkEye/blob/master/README_Chinese.md) 
 
 ##### 卡顿
 * [PerformanceMonitor-Runloop](https://github.com/suifengqjn/PerformanceMonitor)

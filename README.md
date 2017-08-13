@@ -48,6 +48,8 @@ TODO：
 
 #### 电量优化 
 * [Energy Efficiency and the User Experience](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html#//apple_ref/doc/uid/TP40015243)
+* [iOS 常见耗电量检测方案调研](https://github.com/ChenYilong/iOSBlog/issues/10)
+* [教你开发省电的 iOS app（WWDC17 观后）](http://www.jianshu.com/p/f0dc653d04ca)
 
 #### 启动优化
 * [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/#more)

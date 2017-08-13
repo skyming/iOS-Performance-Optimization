@@ -11,7 +11,6 @@
 * [High Performance iOS Apps](http://download.csdn.net/detail/tskyming/9831465)
 
 #### Instruments 工具相关
-* [Instruments Help](http://help.apple.com/instruments/mac/9.0/)
 * [Instruments User Guide](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) [中文翻译-PDF](http://cdn.cocimg.com/bbs/attachment/Fid_6/6_24457_90eabb4ed5b3863.pdf) 
 * [Instruments之Leaks学习](http://www.cnblogs.com/lxlx1798/p/6933485.html) 
 * [Instruments学习之Allocations](http://www.cnblogs.com/lxlx1798/p/6933195.html) 
@@ -47,7 +46,8 @@
 TODO：
 
 #### 电量优化 
-* [Energy Efficiency and the User Experience](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html#//apple_ref/doc/uid/TP40015243)
+* [Guide - Energy Efficiency Guide for iOS Apps](https://developer.apple.com/library/content/documentation/Performance/Conceptual/EnergyGuide-iOS/index.html#//apple_ref/doc/uid/TP40015243)
+* [WWDC2017 - Writing Energy Efficient Apps](https://developer.apple.com/videos/play/wwdc2017/238/)
 * [iOS 常见耗电量检测方案调研](https://github.com/ChenYilong/iOSBlog/issues/10)
 * [教你开发省电的 iOS app（WWDC17 观后）](http://www.jianshu.com/p/f0dc653d04ca)
 

@@ -81,6 +81,7 @@ TODO：
 * [听云 - 移动端 APM 产品研发技能](http://www.infoq.com/cn/presentations/mobile-terminal-apm-product-development-skills) 
 * [听云 - 移动 App 性能监测](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice?utm_source=presentations_about_mobile&utm_medium=link&utm_campaign=mobile)
 * [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
+* [揭秘 APM iOS SDK 的核心技术](https://github.com/iOS-APM/iOS-APM-Secrets)  
 
 #### 调试 & Crash
 * [iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域](https://github.com/aozhimin/iOS-Debug-Hacks)
@@ -100,4 +101,9 @@ TODO：
 ##### 瘦身
 * [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)
 * [LinkMap](https://github.com/huanxsd/LinkMap)
+
+#### APM
+* [iOS-System-Services](https://github.com/iOS-APM/iOS-System-Services)
+* [System Monitor](https://github.com/iOS-APM/SystemMonitor)
+
 

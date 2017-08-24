@@ -19,7 +19,6 @@
 * [Instruments之Activity Monitor使用入门](http://www.cnblogs.com/lxlx1798/p/6933141.html) 
 * [使用Instrument调试界面卡顿](http://www.jianshu.com/p/9dbbc91c8059)
 * [Core Animation性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
-* [iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域](https://github.com/aozhimin/iOS-Debug-Hacks)
 
 #### 综合篇
 * [微信读书iOS性能优化](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
@@ -82,6 +81,10 @@ TODO：
 * [听云 - 移动端 APM 产品研发技能](http://www.infoq.com/cn/presentations/mobile-terminal-apm-product-development-skills) 
 * [听云 - 移动 App 性能监测](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice?utm_source=presentations_about_mobile&utm_medium=link&utm_campaign=mobile)
 * [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
+
+#### 调试 & Crash
+* [iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域](https://github.com/aozhimin/iOS-Debug-Hacks)
+* [Understanding and Analyzing Application Crash Reports](https://developer.apple.com/library/content/technotes/tn2151/_index.html) 
 
 
 #### 相关开源库

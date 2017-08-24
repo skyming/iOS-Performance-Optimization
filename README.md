@@ -82,6 +82,7 @@ TODO：
 * [听云 - 移动 App 性能监测](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice?utm_source=presentations_about_mobile&utm_medium=link&utm_campaign=mobile)
 * [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
 * [揭秘 APM iOS SDK 的核心技术](https://github.com/iOS-APM/iOS-APM-Secrets)  
+* [iOS-Monitor-Resources](https://github.com/aozhimin/iOS-Monitor-Resources) 
 
 #### 调试 & Crash
 * [iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域](https://github.com/aozhimin/iOS-Debug-Hacks)
@@ -105,5 +106,7 @@ TODO：
 #### APM
 * [iOS-System-Services](https://github.com/iOS-APM/iOS-System-Services)
 * [System Monitor](https://github.com/iOS-APM/SystemMonitor)
+* [iOS Memory Budget Test](https://github.com/Split82/iOSMemoryBudgetTest)
+* [PerformanceTestingHelper](https://github.com/ArmsZhou/PerformanceTestingHelper)
 * [GT](https://github.com/Tencent/GT) 
 

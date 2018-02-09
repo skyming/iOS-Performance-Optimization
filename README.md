@@ -50,6 +50,7 @@ TODO：
 * [iOS 常见耗电量检测方案调研](https://github.com/ChenYilong/iOSBlog/issues/10)
 * [教你开发省电的 iOS app（WWDC17 观后）](http://www.jianshu.com/p/f0dc653d04ca)
 * [浅析移动蜂窝网络的特点及其省电方案](https://juejin.im/post/5a0c5af051882578da0d6925)
+* [iOS电量测试实践](https://mp.weixin.qq.com/s/q39BHIWsbdNeqfH85EOkIQ)
 
 #### 启动优化
 * [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/#more)

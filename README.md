@@ -42,6 +42,7 @@
 * [iOS应用UI线程卡顿监控](https://mp.weixin.qq.com/s?__biz=MzI5MjEzNzA1MA==&mid=2650264136&idx=1&sn=052c1db8131d4bed8458b98e1ec0d5b0&chksm=f406837dc3710a6b49e76ce3639f671373b553e8a91b544e82bb8747e9adc7985fea1093a394#rd)
 * [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
 * [实现 60fps 的网易云音乐首页](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379069&idx=1&sn=376d9ef2261cf13e930406f1c35d3569&chksm=84f32833b384a1250ef66f76a8d050216fd3b0bd4ea99b55f4a609cf268c8169ac2889746245&mpshare=1&scene=1&srcid=0810MDXnroCGDhecWqlXazwE&key=05d58d453d781a66b453e3d41dd8d420839dd771948b07f8c8afe3482922901ad13e8c8ab46f48d0883e9b55d304f6ce272854ecc200f68557644581408036c8ee0c5154fbf413a007cd7617b0e086f6&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=OB4hdN6ImVq0WXd%2BDAJVSADk3OsXMiJH5VzZqXk%2F7meSbJNPMBTUB2z5%2Fct%2BuPmN) 
+* [QQ空间掉帧率优化实战](http://wetest.qq.com/lab/view/354.html)
 
 #### 布局优化
 TODO：

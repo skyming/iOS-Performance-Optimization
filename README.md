@@ -21,6 +21,7 @@
 * [Core Animation性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
 
 #### 综合篇
+* [WWDC2012-235-iOS APP Performance:Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235)
 * [微信读书iOS性能优化](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
 * [微信读书 iOS 质量保证及性能监控](http://wereadteam.github.io/2016/12/12/Monitor/)
 * [深入剖析 iOS 性能优化](https://ming1016.github.io/2017/06/20/deeply-ios-performance-optimization/)
@@ -54,9 +55,9 @@ TODO：
 * [教你开发省电的 iOS app（WWDC17 观后）](http://www.jianshu.com/p/f0dc653d04ca)
 * [浅析移动蜂窝网络的特点及其省电方案](https://juejin.im/post/5a0c5af051882578da0d6925)
 * [iOS电量测试实践](https://mp.weixin.qq.com/s/q39BHIWsbdNeqfH85EOkIQ)
+* [iOS进阶--App功耗优化看这篇就够了](http://www.cocoachina.com/ios/20171204/21413.html)
 
 #### 启动优化
-* [WWDC2012-235-iOS APP Performance:Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235)
 * [WWDC2016-406-Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406)
 * [WWDC2017-413-App Startup Time:Past,Present,and Future](https://developer.apple.com/videos/play/wwdc2017/413)
 * [如何精准度量iOSAPP启动时间](https://www.jianshu.com/p/c14987eee107)

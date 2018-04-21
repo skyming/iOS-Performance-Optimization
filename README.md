@@ -56,12 +56,20 @@ TODO：
 * [iOS电量测试实践](https://mp.weixin.qq.com/s/q39BHIWsbdNeqfH85EOkIQ)
 
 #### 启动优化
-* [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/#more)
-* [WWDC 2016 Session笔记：App启动时间优化](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112831&idx=1&sn=4c7a06af9a726989cd7201bea7de6830&chksm=844c6ca2b33be5b4df92b67fe7912780c1977f8f993b55520a0d17abb3daf9defb09731c3167&scene=0#rd)
-* [百度输入法-iOS 启动速度优化](http://www.infoq.com/cn/presentations/ios-typewriting-start-speed-optimization)
-* [Facebook iOS App如何优化启动时间](http://www.cocoachina.com/ios/20160104/14870.html)
+* [WWDC2012-235-iOS APP Performance:Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235)
+* [WWDC2016-406-Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406)
+* [WWDC2017-413-App Startup Time:Past,Present,and Future](https://developer.apple.com/videos/play/wwdc2017/413)
+
+* [如何精准度量iOSAPP启动时间](https://www.jianshu.com/p/c14987eee107)
+* [优化 App 的启动时间-杨萧玉](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time)
+
+* [iOS客户端启动速度优化-今日头条](https://techblog.toutiao.com/2017/01/17/iosspeed/#more)
+* [iOS App 启动性能优化-WiFi管家](https://mp.weixin.qq.com/s/Kf3EbDIUuf0aWVT-UCEmbA)
+* [iOS App如何优化启动时间-Facebook](http://www.cocoachina.com/ios/20160104/14870.html)
+* [iOS 启动速度优化-百度输入法](http://www.infoq.com/cn/presentations/ios-typewriting-start-speed-optimization)
+* [一次立竿见影的启动时间优化](https://juejin.im/post/5a31190751882559e225a775)
+
 * [obj中国-Mach-O 可执行文件](https://objccn.io/issue-6-3/)
-* [iOS App 启动性能优化](https://mp.weixin.qq.com/s/Kf3EbDIUuf0aWVT-UCEmbA)
 
 #### 体积优化
 * [iOS微信安装包瘦身](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&scene=24&srcid=0921TTAXHGHWKqckEHTvGzoA#rd)

@@ -20,8 +20,6 @@
 * [instrument之Time Profiler总结](http://www.cnblogs.com/lxlx1798/p/6933604.html)
 * [Instruments学习之Core Animation学习](http://www.cnblogs.com/lxlx1798/p/6933364.html) 
 * [Instruments之Activity Monitor使用入门](http://www.cnblogs.com/lxlx1798/p/6933141.html) 
-* [使用Instrument调试界面卡顿](http://www.jianshu.com/p/9dbbc91c8059)
-* [Core Animation性能调优](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques/blob/master/12-%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
 
 #### 综合篇
 * [WWDC2012-235-iOS APP Performance:Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235)
@@ -43,14 +41,15 @@
 * [内存管理及优化(下)-QQ浏览器](https://www.imooc.com/video/11076)
 
 #### 卡顿优化
+* [UIKit性能调优实战讲解](http://www.cocoachina.com/ios/20160208/15238.html?utm_source=tuicool&utm_medium=referral)
+* [QQ空间掉帧率优化实战](http://wetest.qq.com/lab/view/354.html)
+* [实现 60fps 的网易云音乐首页](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379069&idx=1&sn=376d9ef2261cf13e930406f1c35d3569) 
+* [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+* [iOS UI性能优化总结](http://www.cocoachina.com/ios/20180412/22990.html)
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ%3D%3D&idx=1&mid=207890859&scene=23&sn=e98dd604cdb854e7a5808d2072c29162&srcid=0921FzoCw9j1W7n4uFYKuarC#rd)
 * [iOS-卡顿检测](http://www.cnblogs.com/gatsbywang/p/5555200.html)
 * [iOS监控：卡顿检测](http://ios.jobbole.com/93085/)
 * [iOS应用UI线程卡顿监控](https://mp.weixin.qq.com/s?__biz=MzI5MjEzNzA1MA==&mid=2650264136&idx=1&sn=052c1db8131d4bed8458b98e1ec0d5b0&chksm=f406837dc3710a6b49e76ce3639f671373b553e8a91b544e82bb8747e9adc7985fea1093a394#rd)
-* [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
-* [实现 60fps 的网易云音乐首页](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379069&idx=1&sn=376d9ef2261cf13e930406f1c35d3569&chksm=84f32833b384a1250ef66f76a8d050216fd3b0bd4ea99b55f4a609cf268c8169ac2889746245&mpshare=1&scene=1&srcid=0810MDXnroCGDhecWqlXazwE&key=05d58d453d781a66b453e3d41dd8d420839dd771948b07f8c8afe3482922901ad13e8c8ab46f48d0883e9b55d304f6ce272854ecc200f68557644581408036c8ee0c5154fbf413a007cd7617b0e086f6&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=OB4hdN6ImVq0WXd%2BDAJVSADk3OsXMiJH5VzZqXk%2F7meSbJNPMBTUB2z5%2Fct%2BuPmN) 
-* [QQ空间掉帧率优化实战](http://wetest.qq.com/lab/view/354.html)
-* [UIKit性能调优实战讲解](http://www.cocoachina.com/ios/20160208/15238.html?utm_source=tuicool&utm_medium=referral)
 
 #### 布局优化
 TODO：

@@ -5,10 +5,13 @@
 #### iOS 官方文档
 > 专题内容比较多，后面细分内容会有部分重复。
 * [Performance 专题](https://developer.apple.com/library/content/navigation/#section=Topics&topic=Performance) 
+* [Core Animation Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreAnimation_guide) 
+
 
 #### iOS 性能优化相关书籍
 * [Pro iOS Apps Performance Optimization](http://download.csdn.net/detail/tskyming/9831453)
 * [High Performance iOS Apps](http://download.csdn.net/detail/tskyming/9831465)
+* [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 
 #### Instruments 工具相关
 * [Instruments User Guide](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html) [中文翻译-PDF](http://cdn.cocimg.com/bbs/attachment/Fid_6/6_24457_90eabb4ed5b3863.pdf) 

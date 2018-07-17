@@ -21,6 +21,12 @@
 * [Instruments学习之Core Animation学习](http://www.cnblogs.com/lxlx1798/p/6933364.html) 
 * [Instruments之Activity Monitor使用入门](http://www.cnblogs.com/lxlx1798/p/6933141.html) 
 
+#### GMTC-2018 PPT
+* [LinkedIn移动应用的性能优化之道](https://ppt.geekbang.org/slide/show?cid=31&pid=1495)
+* [美团客户端监控与异常排查实践](https://ppt.geekbang.org/slide/show?cid=31&pid=1500)
+* [爱奇艺APP极致体验之路](https://ppt.geekbang.org/slide/show?cid=31&pid=1497)
+* [大前端时代前端监控的最佳实践](https://ppt.geekbang.org/slide/show?cid=31&pid=1496)
+
 #### 综合篇
 * [WWDC2012-235-iOS APP Performance:Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235)
 * [微信读书iOS性能优化](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)

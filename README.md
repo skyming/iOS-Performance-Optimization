@@ -113,6 +113,7 @@ TODO：
 * [揭秘 APM iOS SDK 的核心技术](https://github.com/iOS-APM/iOS-APM-Secrets)  
 * [iOS-Monitor-Resources](https://github.com/aozhimin/iOS-Monitor-Resources) 
 * [iOS 流量监控分析](https://juejin.im/post/5b1602906fb9a01e3542f08c)
+* [小试Xcode逆向：app内存监控原理初探](http://ddrccw.github.io/2017/12/30/reverse-xcode-with-lldb-and-hopper-disassembler)
 * [APMCon-2016演讲实录](http://apmcon.cn/2016/index.html#yjsl)  
 #### 调试 & Crash
 * [iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域](https://github.com/aozhimin/iOS-Debug-Hacks)

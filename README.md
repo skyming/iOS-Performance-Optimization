@@ -40,7 +40,7 @@
 
 #### 内存优化
 * [Memory Usage Performance Guidelines](https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/ManagingMemory.html#//apple_ref/doc/uid/10000160i) 
-* [WWDC-2018-416](https://developer.apple.com/videos/play/wwdc2018/416/)
+* [WWDC-2018-416](https://developer.apple.com/videos/play/wwdc2018/416/)[中文翻译](https://juejin.im/post/5b23dafee51d4558e03cbf4f)
 * [探索iOS内存分配](https://juejin.im/post/5a5e13c45188257327399e19) 
 * [iOS微信内存监控](http://wetest.qq.com/lab/view/367.html?from=content_juejin)
 * [内存管理及优化(上)-QQ浏览器](https://www.imooc.com/video/11075)

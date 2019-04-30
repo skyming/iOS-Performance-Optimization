@@ -1,3 +1,12 @@
+**广告时间**
+
+近期部门非常缺人，我们部门主要是IM、WMDA、WPush、PASSPORT、WLog等核心组件客户端SDK开发，
+iOS、Android 初级、高级均需要，有意向者，简历发我邮箱 tskyming@163.com ,➕微信 tskyming
+```
+过段时间，招到人就下掉广告了。
+```
+
+
 # iOS-Performance-Optimization
 关于iOS 性能优化梳理：
 基本工具、业务优化、内存优化、卡顿优化、布局优化、电量优化、 安装包瘦身、启动优化、网络优化等

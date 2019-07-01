@@ -26,6 +26,7 @@
 * [美团客户端监控与异常排查实践](https://ppt.geekbang.org/slide/show?cid=31&pid=1500)
 * [爱奇艺APP极致体验之路](https://ppt.geekbang.org/slide/show?cid=31&pid=1497)
 * [大前端时代前端监控的最佳实践](https://ppt.geekbang.org/slide/show?cid=31&pid=1496)
+* [性能优化与监控专题PPT](https://gmtc.infoq.cn/2019/beijing/)
 
 #### 综合篇
 * [WWDC2012-235-iOS APP Performance:Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235)
@@ -117,6 +118,9 @@ TODO：
 * [iOS 流量监控分析](https://juejin.im/post/5b1602906fb9a01e3542f08c)
 * [小试Xcode逆向：app内存监控原理初探](http://ddrccw.github.io/2017/12/30/reverse-xcode-with-lldb-and-hopper-disassembler)
 * [APMCon-2016演讲实录](http://apmcon.cn/2016/index.html#yjsl)  
+* [360移动端性能监控实践QDAS-APM（iOS篇）](https://mp.weixin.qq.com/s/Vq0TDiLbexxBlqlf_lilnQ)  
+
+
 #### 调试 & Crash
 * [iOS 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域](https://github.com/aozhimin/iOS-Debug-Hacks)
 * [Understanding and Analyzing Application Crash Reports](https://developer.apple.com/library/content/technotes/tn2151/_index.html) 

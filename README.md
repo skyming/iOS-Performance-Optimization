@@ -102,7 +102,6 @@ TODO：
 * [iOS App 启动性能优化-WiFi管家](https://mp.weixin.qq.com/s/Kf3EbDIUuf0aWVT-UCEmbA)
 * [iOS App如何优化启动时间-Facebook](http://www.cocoachina.com/ios/20160104/14870.html)
 * [iOS 启动速度优化-百度输入法](http://www.infoq.com/cn/presentations/ios-typewriting-start-speed-optimization)
-* [一次立竿见影的启动时间优化](https://juejin.im/post/5a31190751882559e225a775)
 * [obj中国-Mach-O 可执行文件](https://objccn.io/issue-6-3/)
 * [iOS app启动速度研究实践](https://zhuanlan.zhihu.com/p/38183046?from=1086193010&wm=3333_2001&weiboauthoruid=1690182120)
 * [iOS App冷启动治理：来自美团外卖的实践](https://mp.weixin.qq.com/s/jN3jaNrvXczZoYIRCWZs7w)

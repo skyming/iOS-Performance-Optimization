@@ -49,7 +49,6 @@
 * [内存管理及优化(下)-QQ浏览器](https://www.imooc.com/video/11076)
 * [OOM探究：XNU 内存状态管理](https://www.jianshu.com/p/4458700a8ba8)
 * [OOMDetector 内存监控（腾讯开源）](https://github.com/Tencent/OOMDetector)
-* [KOOM OOM 泄漏监控（快手开源）](https://github.com/KwaiAppTeam/KOOM)
   
 #### 卡顿优化
 * [UIKit性能调优实战讲解](http://www.cocoachina.com/ios/20160208/15238.html?utm_source=tuicool&utm_medium=referral)
